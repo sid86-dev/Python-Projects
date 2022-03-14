@@ -13,3 +13,4 @@ widgetsnbextension==3.5.1
 WTForms==2.3.3
 yarl==1.6.3
 zipp==3.5.0
+mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
