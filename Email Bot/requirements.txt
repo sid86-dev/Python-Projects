@@ -7,7 +7,7 @@ vboxapi==1.0
 virtualenv==20.7.2
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 whitenoise==5.2.0
 widgetsnbextension==3.5.1
 WTForms==3.0.0a1
