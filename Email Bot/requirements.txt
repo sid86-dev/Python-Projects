@@ -1,7 +1,7 @@
 colorama==0.4.4
 commonmark==0.9.1
 psutil==5.9.0
-Pygments==2.11.2
+Pygments==2.15.0
 rich==11.2.0
 vboxapi==1.0
 virtualenv==20.7.2
