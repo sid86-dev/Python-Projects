@@ -7,10 +7,11 @@ vboxapi==1.0
 virtualenv==20.7.2
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.0.1
+Werkzeug==3.0.1
 whitenoise==5.2.0
 widgetsnbextension==3.5.1
 WTForms==3.0.0a1
 yarl==1.6.3
 zipp==3.5.0
 mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
