@@ -1,16 +1,20 @@
 colorama==0.4.4
 commonmark==0.9.1
 psutil==5.9.0
-Pygments==2.11.2
+Pygments==2.15.0
 rich==11.2.0
 vboxapi==1.0
 virtualenv==20.7.2
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.0.1
+Werkzeug==2.3.8
 whitenoise==5.2.0
 widgetsnbextension==3.5.1
 WTForms==3.0.0a1
 yarl==1.6.3
 zipp==3.5.0
 mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-server>=2.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
